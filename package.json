@@ -1,0 +1,24 @@
+{
+  "name": "jite",
+  "version": "0.0.0",
+  "description": "use mite time tracking with jira",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfeyx/jite.git"
+  },
+  "keywords": [
+    "jira",
+    "mite",
+    "time tracking"
+  ],
+  "author": "Markus Feiks <markus@peaksandpies.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfeyx/jite/issues"
+  },
+  "homepage": "https://github.com/mfeyx/jite#readme"
+}
